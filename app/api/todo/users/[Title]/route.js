@@ -19,3 +19,5 @@ export async function GET (request, {params}) {
 
     return NextResponse.json(findtitle)
 }
+
+
