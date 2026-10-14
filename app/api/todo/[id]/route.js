@@ -52,3 +52,4 @@ export async function DELETE (request, {params}){
 
     return NextResponse.json({message: 'data deleted successfully'});
 }
+
